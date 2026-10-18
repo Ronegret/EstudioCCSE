@@ -1,26 +1,34 @@
-# Estudio CCSE
+<div align="center">
 
-Free study tool and practice-exam simulator for the **CCSE** — the Spanish
-citizenship knowledge test (Instituto Cervantes). Mobile-first, works offline
-in the browser, with verified questions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=170&section=header&text=Estudio%20CCSE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Spanish%20citizenship%20exam%20simulator&descSize=16&descAlignY=60&animation=fadeIn" alt="Estudio CCSE" />
 
-🌐 **Live:** [rodrigonegrete.es/ccse](https://www.rodrigonegrete.es/ccse/)
+<a href="https://www.rodrigonegrete.es/ccse/"><img src="https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge" /></a>
+
+<a href="https://www.rodrigonegrete.es/ccse/"><img width="85%" src="https://image.thum.io/get/width/900/crop/520/noanimate/https://www.rodrigonegrete.es/ccse/" alt="Estudio CCSE preview" /></a>
+
+</div>
+
+## 🧭 Overview
+A free study tool and practice-exam simulator for the CCSE — the Spanish citizenship knowledge test (Instituto Cervantes). Mobile-first, works offline, with verified questions.
 
 ## ✨ Features
-- Full practice-exam simulator with verified CCSE questions
+- Full practice-exam simulator with verified questions
 - Mobile-first, accessible UI
-- Runs entirely in the browser — single self-contained file
+- Runs entirely in the browser (single file)
 - No install, no backend
 
-## 🛠️ Tech
-Vanilla `HTML · CSS · JavaScript` (single-file app)
+## 🛠️ Built with
+`HTML` · `CSS` · `JavaScript`
 
 ## 🚀 Run locally
-Open `index.html` in a browser, or:
 ```bash
-python -m http.server 8080
+# open index.html
 ```
 
-## 👤 Author
-**Rodrigo Negrete** — AI Product Designer & Automation Architect
-[Portfolio](https://www.rodrigonegrete.es) · [LinkedIn](https://linkedin.com/in/rodrigonegretearos)
+
+---
+
+<div align="center">
+<sub>Made by <b>Rodrigo Negrete</b> — AI Product Designer &amp; Automation Architect<br/>
+<a href="https://www.rodrigonegrete.es">Portfolio</a> · <a href="https://linkedin.com/in/rodrigonegretearos">LinkedIn</a> · <a href="https://github.com/Ronegret">GitHub</a></sub>
+</div>
